@@ -16,8 +16,7 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
 <td width="50%">
 <h3 align="center">Tecnologias que he utilizado</h3>
 <div align="center">
-<a <img src="<
-/a>
+<a <img src=""</a>
 <p>
 <a >
 <img src="">

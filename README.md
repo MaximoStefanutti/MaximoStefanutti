@@ -33,10 +33,12 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
         <img src="https://github.com/user-attachments/assets/1bc9929c-6443-4ac0-9739-fec70abebe57" alt="JavaScript" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/3d1b7c23-8c6d-4b3f-b8d9-4e0dbb4a1c2a" alt="TypeScript" width="60px">
+        <img src="![typescript_5968381](https://github.com/user-attachments/assets/d77cbee2-f2c9-49d3-82a0-47a4d58b7d12)
+" alt="TypeScript" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/5f8e9c5b-6e3b-4e87-9b64-5c66ad1f8b92" alt="NestJS" width="60px">
+        <img src="![kindpng_2214777](https://github.com/user-attachments/assets/622a9766-b7ea-436b-b4e0-8523455590bc)
+" alt="NestJS" width="60px">
       </td>
     </tr>
     <tr>

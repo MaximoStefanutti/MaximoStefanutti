@@ -24,41 +24,47 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/f0d73b38-4704-4609-9d4c-fec98ec40a54" alt="Git" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/361c51a9-3af6-46f4-b43d-9518ebb6baec" alt="GitHub" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/1bc9929c-6443-4ac0-9739-fec70abebe57" alt="JavaScript" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/d77cbee2-f2c9-49d3-82a0-47a4d58b7d12" alt="TypeScript" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/622a9766-b7ea-436b-b4e0-8523455590bc" alt="NestJS" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="60px">
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/7e3d52c8-2fda-45a3-b47d-028b649b5b84" alt="Next.js" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/9c1a60f3-b01c-45e8-b2b2-3f3a1cdd83e5" alt="Express" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/8b3c5b3c-8f7c-42c5-b8f4-234c5a8e8c8b" alt="MongoDB" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/a5e4c8e9-9e3d-4b4c-bd9f-45b7c4c9e9f7" alt="Insomnia" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/d7f8b3e9-2f3b-4a6b-b9e5-c2d5a7e8d9f6" alt="React" width="60px">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/657e87c6-3b60-47e3-b5fa-fbe289a91b9c" alt="CSS" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="60px">
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+## 📫 Contacto
+
+📧 Correo: [tuemail@example.com](mailto:tuemail@example.com)  
+🔗 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+🐦 Twitter: [twitter.com/tuusuario](https://twitter.com/tuusuario)
+
+---

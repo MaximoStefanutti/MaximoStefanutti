@@ -10,7 +10,7 @@
 Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, con una marcada preferencia por este último. Me considero una persona proactiva, autodidacta y orientada al trabajo en equipo, siempre en búsqueda de mejorar y optimizar mis habilidades, tanto técnicas como blandas. A lo largo de mis proyectos académicos y personales, he trabajado con diversas tecnologías, siempre enfocado en aprender y perfeccionar nuevos procesos de desarrollo para crear soluciones innovadoras y eficientes.
 <br>
 
-## Proyectos *bombitas*
+## *Herraminetas*
 <table>
 <tr>
 <td width="50%">
@@ -20,8 +20,8 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
 /a>
 <p>
 <a >
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="">
 </a>
 <a >
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="">
 </a>

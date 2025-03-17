@@ -16,11 +16,14 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
 <td width="50%">
 <h3 align="center">Tecnologias que he utilizado</h3>
 <div align="center">
-<a <img src=""></a>
+<a <img src="![git](https://github.com/user-attachments/assets/f0d73b38-4704-4609-9d4c-fec98ec40a54)
+"></a>
 <p>
 <a >
-<img src="">
+<img src="![github](https://github.com/user-attachments/assets/361c51a9-3af6-46f4-b43d-9518ebb6baec)
+">
 </a>
 <a >
-<img src="">
+<img src="![js](https://github.com/user-attachments/assets/1bc9929c-6443-4ac0-9739-fec70abebe57)
+">
 </a>

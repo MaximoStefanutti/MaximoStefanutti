@@ -58,7 +58,8 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
         <img src="https://github.com/user-attachments/assets/d7f8b3e9-2f3b-4a6b-b9e5-c2d5a7e8d9f6" alt="React" width="60px">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/e3b7f9a6-7c4d-4e9a-b3c2-8f9e7d4c5b3a" alt="CSS" width="60px">
+        <img src="![icons8-css3-48](https://github.com/user-attachments/assets/657e87c6-3b60-47e3-b5fa-fbe289a91b9c)
+" alt="CSS" width="60px">
       </td>
     </tr>
   </table>

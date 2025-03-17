@@ -1,7 +1,8 @@
 <div align="center">
-<h1 align="center">Hola, soy <a Maximo >AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a >Maximo</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966](https://github.com/user-attachments/assets/91803e33-b8b2-4fdd-8ed1-d3d97c0a18e8)
+">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)

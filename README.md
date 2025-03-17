@@ -1,9 +1,11 @@
 ## Hola👋, soy Maximo.
 
 <div>
-  ## FullStack Developer
+  FullStack Developer
 </div>
+🧑‍🦱Sobre mi
 
+Soy desarollarodr FullStack Developer con especialización y experiencia predominante en el BackEnd. A lo largo de mis proyectos academicos he trabajado con diversas tecnologías. Soy una persona la que busca siempre mejorar, optimizar y conocer nuevos procesos de desarollo para crear soluciónes innovadores y eficientes.
 <div>
   
 </div>

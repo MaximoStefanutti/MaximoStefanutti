@@ -33,12 +33,10 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
         <img src="https://github.com/user-attachments/assets/1bc9929c-6443-4ac0-9739-fec70abebe57" alt="JavaScript" width="60px">
       </td>
       <td align="center">
-        <img src="![typescript_5968381](https://github.com/user-attachments/assets/d77cbee2-f2c9-49d3-82a0-47a4d58b7d12)
-" alt="TypeScript" width="60px">
+        <img src="https://github.com/user-attachments/assets/d77cbee2-f2c9-49d3-82a0-47a4d58b7d12" alt="TypeScript" width="60px">
       </td>
       <td align="center">
-        <img src="![kindpng_2214777](https://github.com/user-attachments/assets/622a9766-b7ea-436b-b4e0-8523455590bc)
-" alt="NestJS" width="60px">
+        <img src="https://github.com/user-attachments/assets/622a9766-b7ea-436b-b4e0-8523455590bc" alt="NestJS" width="60px">
       </td>
     </tr>
     <tr>
@@ -58,9 +56,9 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
         <img src="https://github.com/user-attachments/assets/d7f8b3e9-2f3b-4a6b-b9e5-c2d5a7e8d9f6" alt="React" width="60px">
       </td>
       <td align="center">
-        <img src="![icons8-css3-48](https://github.com/user-attachments/assets/657e87c6-3b60-47e3-b5fa-fbe289a91b9c)
-" alt="CSS" width="60px">
+        <img src="https://github.com/user-attachments/assets/657e87c6-3b60-47e3-b5fa-fbe289a91b9c" alt="CSS" width="60px">
       </td>
     </tr>
   </table>
 </div>
+

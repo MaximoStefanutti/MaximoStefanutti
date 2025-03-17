@@ -63,8 +63,8 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
 
 ## 📫 Contacto
 
-📧 Correo: [tuemail@example.com](stefanuttimaximo@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/maximo-stefanutti-616314191)  
+📧 Correo: [stefanuttimaximo@gmail.com]  
+🔗 LinkedIn: [www.linkedin.com/in/maximo-stefanutti-616314191]
 
 
 ---

@@ -32,6 +32,19 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
       <td align="center">
         <img src="https://github.com/user-attachments/assets/1bc9929c-6443-4ac0-9739-fec70abebe57" alt="JavaScript" width="50px">
       </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3d1b7c23-8c6d-4b3f-b8d9-4e0dbb4a1c2a" alt="TypeScript" width="50px">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/5f8e9c5b-6e3b-4e87-9b64-5c66ad1f8b92" alt="NestJS" width="50px">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/7e3d52c8-2fda-45a3-b47d-028b649b5b84" alt="Next.js" width="50px">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/9c1a60f3-b01c-45e8-b2b2-3f3a1cdd83e5" alt="Express" width="50px">
+      </td>
     </tr>
   </table>
 </div>
+

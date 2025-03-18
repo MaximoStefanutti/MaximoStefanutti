@@ -25,7 +25,7 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
   <a href="mailto:stefanuttimaximo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://wa.me/+54 351-626-7074" target="_blank">
+  <a href="https://wa.me/TU_NUMERO_DE_WHATSAPP" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
@@ -52,7 +52,7 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60px">
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="60px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="60px">
       </td>
     </tr>
     <tr>

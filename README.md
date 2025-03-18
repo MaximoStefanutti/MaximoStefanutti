@@ -16,6 +16,22 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
 
 ---
 
+## 📫 Contacto
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/maximo-stefanutti-616314191" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:stefanuttimaximo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/+54 351-626-7074" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
+
+---
+
 ## 🛠 *Herramientas*
 
 <h3 align="center">Tecnologías que he utilizado</h3>
@@ -53,18 +69,10 @@ Soy desarrollador Full Stack con experiencia tanto en FrontEnd como en BackEnd, 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60px">
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="60px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60px">
       </td>
     </tr>
   </table>
 </div>
-
----
-
-## 📫 Contacto
-
-📧 Correo: stefanuttimaximo@gmail.com 
-🔗 LinkedIn: www.linkedin.com/in/maximo-stefanutti-616314191
-
 
 ---
